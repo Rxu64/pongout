@@ -1,7 +1,10 @@
 # pongout
 A small game combined the essence of Pong and Breakout
 
-Controlling scheme
+System Requirements
+-Windows
+
+Controlling Scheme
 -two players
 -one controller
 -left joystick controls left paddle, use left trigger to boost its speed
